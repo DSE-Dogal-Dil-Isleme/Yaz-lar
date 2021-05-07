@@ -1,2 +1,2 @@
-# Yaz-lar
+# YAZILAR
 Yazılan ve Planlanan Yazılar
