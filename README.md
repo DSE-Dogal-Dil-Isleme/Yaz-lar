@@ -2,7 +2,7 @@
 Yazılan ve Planlanan Yazılar
 
 
-<details><summary>📚 Natural Language Processing</summary>
+## 📚 Natural Language Processing
  <br>
  
 * [1. Doğal Dil İşleme Nedir?](https://www.datasciencearth.com/dogal-dil-isleme-1-dogal-dil-islemeye-giris/) 
@@ -21,4 +21,4 @@ Yazılan ve Planlanan Yazılar
 * [11. Embedding-1:Embedding Nedir? Klasik Yöntem]() loading... 
 * [12. Embedding-2:Word2vec ve Glove Yöntemleri]() loading... 
 
-</details>
+
